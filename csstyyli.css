@@ -1,0 +1,32 @@
+
+             h1 {color: rgb(26, 2, 24);
+                border: 10px solid rgb(17, 1, 1);
+            }
+
+
+            h2 {color:rgb(35, 4, 65);
+            }
+
+            h3 {color: rgb(65, 4, 73);
+            }
+
+            p.kappale1 {color: rgb(228, 120, 32);
+                padding-right: 150px;
+                border-style: solid;
+                border-color: black;
+                border-radius: 20px;
+                padding-left: 15px;
+                margin-right: 800px;
+            }
+
+            p {background-color: pink;
+                border-style: solid;
+                border-color: black;
+                border-radius: 20px;
+                padding-left: 15px;
+                margin-right: 80px;
+            }
+
+            body {background: rgb(199, 199, 231);
+            }
+
