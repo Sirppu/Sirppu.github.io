@@ -1,0 +1,16 @@
+
+            h1 {color: rgb(182, 39, 39);
+            }
+
+            h2 {color:blueviolet;
+            }
+
+            h3 {color: rgb(39, 118, 182)
+            }
+
+            body {background: rosybrown
+            }
+
+            #kappale1 {color: aqua
+
+            }
